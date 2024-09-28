@@ -1,1 +1,1 @@
-# DSA-BookManager
+This is a Data Structures and Algorithms Analysis project, developed in Python, is a versatile toolset for exploring, implementing, and evaluating fundamental concepts in computer science. Key features include implementations of data structures such as linked lists, hash tables, and binary search trees, enabling users to efficiently organize and manage collections of books. Users can import books into the system, perform search and sort operations, and benefit from advanced features like generating random arrays and sorting in descending order.
